@@ -1,5 +1,5 @@
 // ignore
-//@name:aec动漫
+//@name:aePPpc动漫
 //@version:1
 //@webSite:https://www.agedm.vip/
 //@remark:
@@ -32,7 +32,7 @@ const filterListUrl = ''
 
 const firstClass = [
     {
-        name: '中国',
+        name: 'aa',
         // https://www.bahaotv.com/vodshow/movie--------2---.html
         // 把网站主页变成 @{webSite}  把页码变成 @{page}
         id: '@{webSite}/catalog/all-all-all-all-all-time-@{page}-中国-all-all',
