@@ -1,5 +1,5 @@
 // ignore
-//@name:aePPpc动漫
+//@name:c动漫
 //@version:1
 //@webSite:https://www.agedm.vip/
 //@remark:
