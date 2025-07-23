@@ -40,16 +40,7 @@
       "api": "https://13362.kstore.space/Uz/wobg.js",
       "type": 101
     },
-    {
-      "name": "[盘] TG搜",
-      "version": 6,
-      "remark": "格式 频道名称1@频道id1&频道名称2@频道id2",
-      "env": "TG搜代理地址##默认直接访问 https://t.me/s/ 有自己的代理服务填入即可，没有不用改动。",
-      "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&云巢@peccxinpd&夸克UC@ucquark&夸克电影@alyp_4K_Movies&夸克剧集@alyp_TV&夸克动漫@alyp_Animation",
-      "order": "B",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/tgs.js",
-      "type": 101
-    },
+    
     {
       "name": "[嗅] MX动漫",
       "version": 1,
@@ -66,7 +57,16 @@
       "api": "https://13362.kstore.space/Uz/Xiu_fcdm.js",
       "type": 101
     },
-   
+   {
+      "name": "TG纯搜",
+      "version": 5,
+      "remark": "🍃豆儿出品，不属精品！免代理纯搜索，格式 频道名称@频道id|搜索数量&频道名称@频道id，支持自定义每频道搜索数量，默认3个",
+      "env": "TG搜API地址##https://tgsou.252035.xyz",
+      "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&云巢@peccxinpd&夸克UC@ucquark&夸克电影@alyp_4K_Movies&夸克剧集@alyp_TV&夸克动漫@alyp_Animation",
+      "order": "B",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/tgs_api.js",
+      "type": 101
+    },
     {
       "name": "短剧",
       "version": 1,
@@ -75,7 +75,15 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/nanfdj.js",
       "type": 101
     },
-   
+    {
+      "name": "小猫咪",
+      "version": 5,
+      "remark": "",
+      "webSite": "https://zy.xmm.hk/api.php/provide/vod",
+      "order": "A",
+      "api": "https://13362.kstore.space/Uz/xxmcms.js",
+      "type": 101
+    },
     {
       "name": "「直」瓜子app",
       "version": 2,
