@@ -23,7 +23,7 @@ import {
     RepVideoPlayUrl,
     UZArgs,
     UZSubclassVideoListArgs,
-} from '../../core/core/uzVideo.js'
+} from 'https://github.com/YYDS678/uzVideo-extensions/blob/main/core/core/uzVideo.js'
 
 import {
     UZUtils,
@@ -45,9 +45,9 @@ import {
     kLocale,
     kAppVersion,
     formatBackData,
-} from '../../core/core/uzUtils.js'
+} from 'https://github.com/YYDS678/uzVideo-extensions/blob/main/core/core/uzUtils.js'
 
-import { cheerio } from '../../core/core/uz3lib.js'
+import { cheerio } from 'https://github.com/YYDS678/uzVideo-extensions/blob/main/core/core/uz3lib.js'
 // ignore
 
 const appConfig = {
