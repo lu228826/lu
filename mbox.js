@@ -37,27 +37,17 @@
       "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
       "ext": "https://13362.kstore.space/mbox/AQY.js"
     },
+    
     {
-      "key": "贱贱",
-      "name": "晚上流畅(不要相信视频广告)",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-    },
-    {
-      "key": "卢",
-      "name": "全部都有",
+      "key": "官网采集",
+      "name": "官网采集",
       "type": 1,
-      "api": "https://zy.xiaomaomi.cc/api.php/provide/vod/",
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext": "http://228826.xyz//api.php/provide/vod/"
+      "ext": "https://zy.xmm.hk/api.php/provide/vod"
     }
   ],
   "parses": [
