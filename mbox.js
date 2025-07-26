@@ -1,6 +1,6 @@
-{
-  
-  "sites": [
+
+  const mboxConfig = {
+      "sites": [
     {
       "key": "腾讯视频",
       "name": "腾讯｜视频",
@@ -65,35 +65,16 @@
       "name": "蓝光",
       "type": "1",
       "url": " https://api.huohua.live/api/?key=v8GHObhk1dzFZ23Lom&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
+        "ext": {
         "header": {
-          "User-Agent": "okhttp/4.9.1"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
         }
       }
     },
     {
       "name": "高清",
       "type": "1",
-      "url": "http://jx.dedyn.io/?url="
+      "url": "http://zhuimi.摸鱼儿.com/moyu/zhuimi?token=hE4PXgx0&url="
     },
     {
       "name": "2k",
@@ -138,10 +119,11 @@
     "芒果TV",
     "芒 果 T V",
     "bilibili",
-    "哔 哩",
-    "哔 哩 哔 哩"
+    "哔 哩"
   ]
 }
+
+
   
       
          
