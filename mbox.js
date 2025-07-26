@@ -1,5 +1,5 @@
-
-  const mboxConfig = {
+{
+  
       "sites": [
     {
       "key": "腾讯视频",
@@ -50,6 +50,7 @@
       "ext": "https://zy.xmm.hk/api.php/provide/vod"
     }
   ],
+
   "parses": [
     {
       "name": "蓝光",
@@ -77,7 +78,7 @@
       "url": "http://kcjx.zwzs.fun/json.php?url="
     }
   ],
-  "flags": [
+  "flags":[
     "youku",
     "优酷",
     "优 酷",
