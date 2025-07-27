@@ -52,7 +52,7 @@
         },
         {
             "key": "瓜子影视",
-            "name": "🍉瓜子┃蓝光┃无广",
+            "name": "瓜子┃蓝光┃无广",
             "type": 3,
             "api": "csp_Gz360",
             "jar": "http:\/\/我不是.摸鱼儿.com\/by\/jar\/moyuer.php;md5;5723b4f097fbfb7956671d9b035151d9",
@@ -69,7 +69,7 @@
         },
           {
             "key": "MoggV2",
-            "name": "🍁优汐木偶┃4K弹幕",
+            "name": "优汐木偶┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
             "jar": "http:\/\/我不是.摸鱼儿.com\/by\/jar\/moyuer.php;md5;3422b9456765fbcb969faafefc980c24",
@@ -92,6 +92,29 @@
                 "siteUrl": "https:\/\/www.wogg.com\/",
                 "danMu": "弹"
             }
+        },
+         {
+            "key": "QuarkzzV2",
+            "name": "夸克至臻┃4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "jar": "http:\/\/我不是.摸鱼儿.com\/by\/jar\/moyuer.php;md5;3422b9456765fbcb969faafefc980c24",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "timeout": 60,
+            "ext": "http:\/\/我不是.摸鱼儿.com\/json\/zz.json"
+        },
+            {
+            "key": "玩偶哥哥",
+            "name": "玩偶备用┃4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "jar": "http:\/\/我不是.摸鱼儿.com\/by\/jar\/moyuer.php;md5;3422b9456765fbcb969faafefc980c24",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https:\/\/gitee.com\/PizazzXS\/another-d\/raw\/master\/cloud\/json\/wogg.json"
         },
          {
             "key": "追忆",
