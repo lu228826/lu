@@ -83,6 +83,7 @@
             "name": "玩偶智能┃4K弹幕",
             "type": 3,
             "api": "csp_WoGGGuard",
+            "jar": "http:\/\/我不是.摸鱼儿.com\/by\/jar\/moyuer.php;md5;3422b9456765fbcb969faafefc980c24",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
