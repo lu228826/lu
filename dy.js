@@ -1,14 +1,14 @@
 import cheerio from "assets://js/lib/cheerio.min.js";
 import "assets://js/lib/crypto-js.js";
-import "./jsencrypt.js";
-import "./node-rsa.js";
-import "./pako.min.js";
-import 模板 from "./模板.js";
+import "https://raw.githubusercontent.com/lu228826/lu/refs/heads/main/mo1.js";
+import "https://raw.githubusercontent.com/lu228826/lu/refs/heads/main/mo2.js";
+import "https://raw.githubusercontent.com/lu228826/lu/refs/heads/main/mo4.js";
+import 模板 from "https://raw.githubusercontent.com/lu228826/lu/refs/heads/main/mo7.js";
 import {
     gbkTool
-} from "./gbk.js";
-import "./json5.js";
-import "./jinja.js";
+} from "https://raw.githubusercontent.com/lu228826/lu/refs/heads/main/mo3.js";
+import "https://raw.githubusercontent.com/lu228826/lu/refs/heads/main/mo5.js";
+import "https://raw.githubusercontent.com/lu228826/lu/refs/heads/main/mo6.js";
 const _jinja2 = cheerio.jinja2;
 cheerio.jinja2 = function(template, obj) {
     try {
