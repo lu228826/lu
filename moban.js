@@ -1,4 +1,4 @@
-{
+const moban = {
     "请求头": "User-Agent$MOBILE_UA",
     "主页url": "https://www.aiwodj.com",
     "数组": "lazy lazyloaded&&</a[替换:amp;>>]",
@@ -22,4 +22,4 @@
     "分类url": "https://www.aiwodj.com/vodshow/{cateId}--{by}-{class}-{lang}----{catePg}---{year}.html",
     "分类": "穿越&战神&重生&爱情&萌娃&神医&古代&玄幻&言情",
     "分类值": "fenle&fenlei2&fenlei3&fenlei4&guda&shenyi&gudai&xuanhuan&yanqing"
-}
+};
