@@ -5,14 +5,14 @@
       "key": "腾讯视频",
       "name": "腾讯｜视频",
       "type": 3,
-      "api": "./dy.js",
+      "api": "",
       "ext": "https://13362.kstore.space/mbox/TXSP.js"
     },
     {
       "key": "优酷视频",
       "name": "优酷｜视频",
       "type": 3,
-      "api": "./dy.js",
+      "api": "",
       "ext": "https://13362.kstore.space/mbox/YKSP.js"
     },
     {
@@ -23,7 +23,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "api": "./dy.js",
+      "api": "",
       "ext": "https://13362.kstore.space/mbox/MGSP.js"
     },
     {
@@ -34,7 +34,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "api": "./dy.js",
+      "api": "",
       "ext": "https://13362.kstore.space/mbox/AQY.js"
     },
     {
