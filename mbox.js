@@ -5,7 +5,7 @@
       "key": "腾讯视频",
       "name": "腾讯｜视频",
       "type": 3,
-      "api": "./lu228826/lu/refs/heads/main/dy.js",
+      "api": "./dy.js",
       "ext": "https://13362.kstore.space/mbox/TXSP.js"
     },
     {
