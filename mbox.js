@@ -1,4 +1,5 @@
-const config = {   "wallpaper": "http:\/\/我不是.摸鱼儿.com\/wallpaper\/",
+{ 
+    "wallpaper": "http:\/\/我不是.摸鱼儿.com\/wallpaper\/",
     "spider": "./spider.jar",
       "sites": [
         {
@@ -151,7 +152,7 @@ const config = {   "wallpaper": "http:\/\/我不是.摸鱼儿.com\/wallpaper\/",
     {
       "name": "2号",
       "type": "1",
-      "url": "https://zy.qiaoji8.com/xiafan.php?url=",
+      "url": "https://zy.qiaoji8.com/xiafan.php?url=      git clone https://gitee.com/用户名/仓库名.git",
         "ext": {
         "header": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
