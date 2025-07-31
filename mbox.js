@@ -1,4 +1,4 @@
-{   "wallpaper": "http:\/\/我不是.摸鱼儿.com\/wallpaper\/",
+const config = {   "wallpaper": "http:\/\/我不是.摸鱼儿.com\/wallpaper\/",
     "spider": "./spider.jar",
       "sites": [
         {
@@ -18,6 +18,10 @@
       "key": "腾讯视频",
       "name": "腾讯｜视频",
       "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
       "api": "./dy.js",
       "ext": "https://13362.kstore.space/mbox/TXSP.js"
     },
