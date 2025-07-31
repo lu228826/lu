@@ -12,7 +12,7 @@
       "key": "优酷视频",
       "name": "优酷｜视频",
       "type": 3,
-      "api": "./lu228826/lu/refs/heads/main/dy.js",
+      "api": "./dy.js",
       "ext": "https://13362.kstore.space/mbox/YKSP.js"
     },
     {
@@ -23,7 +23,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "api": "./lu228826/lu/refs/heads/main/dy.js",
+      "api": "./dy.js",
       "ext": "https://13362.kstore.space/mbox/MGSP.js"
     },
     {
@@ -34,7 +34,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "api": "./lu228826/lu/refs/heads/main/dy.js",
+      "api": "./dy.js",
       "ext": "https://13362.kstore.space/mbox/AQY.js"
     },
     {
