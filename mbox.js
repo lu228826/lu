@@ -152,9 +152,9 @@ const config = {   "wallpaper": "http:\/\/我不是.摸鱼儿.com\/wallpaper\/",
 
   "parses": [
     {
-      "name": "蓝光",
+      "name": "1号",
       "type": "1",
-      "url": " https://api.huohua.live/api/?key=v8GHObhk1dzFZ23Lom&url=",
+      "url": "http://kcjx.zwzs.fun/json.php?url==",
         "ext": {
         "header": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
@@ -162,20 +162,26 @@ const config = {   "wallpaper": "http:\/\/我不是.摸鱼儿.com\/wallpaper\/",
       }
     },
     {
-      "name": "高清",
+      "name": "2号",
       "type": "1",
-      "url": "http://zhuimi.摸鱼儿.com/moyu/zhuimi?token=hE4PXgx0&url="
+      "url": "https://json-vipjx.952707.xyz/?url=",
+        "ext": {
+        "header": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+        }
+      }
     },
     {
-      "name": "2k",
-      "type": "0",
-      "url": "https://openapi.973973.xyz/open/api_free/index?url="
-    },
-    {
-      "name": "4k",
-      "type": 1,
-      "url": "http://kcjx.zwzs.fun/json.php?url="
+      "name": "3号",
+      "type": "1",
+      "url": "http://120.46.190.255/小白白.php?url=",
+        "ext": {
+        "header": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+        }
+      }
     }
+    
   ],
   "flags":[
     "youku",
