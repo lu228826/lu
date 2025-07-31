@@ -97,20 +97,7 @@ const config = {   "wallpaper": "http:\/\/我不是.摸鱼儿.com\/wallpaper\/",
             "ext": "./zz.json"
         },
 
-              {
-            "key": "次元动漫",
-            "name": "次元｜动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",           
-            "ext": {
-                "url": "https://jjjj.nilinili.org",
-                "dataKey": "672263e98f232a05",
-                "dataIv": "672263e98f232a05",
-                "deviceId": "",
-                "version": "170"
-            }
-        },
+          
         {
             "key": "曼波动漫",
             "name": "曼波｜动漫",
@@ -164,7 +151,7 @@ const config = {   "wallpaper": "http:\/\/我不是.摸鱼儿.com\/wallpaper\/",
     {
       "name": "2号",
       "type": "1",
-      "url": "https://json-vipjx.952707.xyz/?url=",
+      "url": "https://zy.qiaoji8.com/xiafan.php?url=",
         "ext": {
         "header": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
