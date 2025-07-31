@@ -1,14 +1,14 @@
 import cheerio from "assets://js/lib/cheerio.min.js";
 import "assets://js/lib/crypto-js.js";
-import "./lu228826/lu/refs/heads/main/mo1.js";
-import "./lu228826/lu/refs/heads/main/mo2.js";
-import "./lu228826/lu/refs/heads/main/mo4.js";
-import 模板 from ".//lu228826/lu/refs/heads/main/mo7.js";
+import "./mo1.js";
+import "./mo2.js";
+import "./mo4.js";
+import 模板 from "./mo7.js";
 import {
     gbkTool
-} from "./lu228826/lu/refs/heads/main/mo3.js";
-import "./lu228826/lu/refs/heads/main/mo5.js";
-import "./lu228826/lu/refs/heads/main/mo6.js";
+} from "./mo3.js";
+import "./mo5.js";
+import "./mo6.js";
 const _jinja2 = cheerio.jinja2;
 cheerio.jinja2 = function(template, obj) {
     try {
