@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 { 
     "wallpaper": "http:\/\/我不是.摸鱼儿.com\/wallpaper\/",
-=======
- { 
-       "wallpaper": "http:\/\/我不是.摸鱼儿.com\/wallpaper\/",
->>>>>>> 828bec04990545ab4a17c4890b9ef65de10f302e
     "spider": "./spider.jar",
       "sites": [
         {
