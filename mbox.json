@@ -1,4 +1,5 @@
-const config = {   "wallpaper": "http:\/\/我不是.摸鱼儿.com\/wallpaper\/",
+ { 
+       "wallpaper": "http:\/\/我不是.摸鱼儿.com\/wallpaper\/",
     "spider": "./spider.jar",
       "sites": [
         {
