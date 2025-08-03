@@ -1,6 +1,6 @@
 { 
     "wallpaper": "http:\/\/我不是.摸鱼儿.com\/wallpaper\/",
-    "spider": "./spider.jar",
+    "spider": "",
       "sites": [
         {
             "key": "配置中心",
