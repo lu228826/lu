@@ -15,6 +15,25 @@
                 "ratio": 1.597
             }
         },
+        {
+          "key": "huban",
+          "name": "弹幕┃小窗",
+          "type": 3,
+          "jar": "https:\/\/gitee.com\/zj521jj\/little-tiger-spot\/raw\/master\/jar\/HubanTC.jar",
+          "api": "csp_Huban"
+        },
+        {
+          "key": "天天影视",
+          "name": "天天｜APP",
+          "type": 3,
+          "api": "csp_AppRJ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "ext": {
+            "url": "http://tt.ysdqjs.cn"
+          }
+        },
     {
       "key": "腾讯视频",
       "name": "腾讯｜视频",
@@ -124,45 +143,35 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./hb.json"
-        },
-    {
-      "key": "官网采集",
-      "name": "官网采集",
-      "type": 1,
-      "api": "https://zy.xmm.hk/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": "https://zy.xmm.hk/api.php/provide/vod"
-    }
+        }
+    
   ],
 
   "parses": [
     {
       "name": "1号",
       "type": "1",
-      "url": "http://kcjx.zwzs.fun/json.php?url==",
+      "url": "https://api.oxli.top/api/?key=39ba1af5e09a0432aef2&url=",
         "ext": {
         "header": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
         }
       }
     },
-    {
-      "name": "2号",
-      "type": "1",
-      "url": "https://zy.qiaoji8.com/xiafan.php?url=      git clone https://gitee.com/用户名/仓库名.git",
-        "ext": {
-        "header": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-        }
+   {
+    "name": "2号",
+    "type": "1",
+    "url": "https://zy.qiaoji8.com/xiafan.php?url=",
+    "ext": {
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
       }
-    },
+    }
+  },
     {
       "name": "3号",
       "type": "1",
-      "url": "http://120.46.190.255/小白白.php?url=",
+      "url": "http://niiuma.qi-simple.top//nn.php?url=",
         "ext": {
         "header": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
